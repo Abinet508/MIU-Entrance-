@@ -40,7 +40,7 @@ public class QuestionFour {
     }
     public static void main(String[] args) {
         QuestionFour q = new QuestionFour();
-        int[] a = {6, 2, 4, 2, 2, 2, 1, 5, 0, 0};
+        int[] a = {3, 1, 2, 3, 0};
         System.out.println(q.isMadhav(a));
     }
 }
